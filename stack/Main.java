@@ -22,6 +22,13 @@ public class Main {
 		st.clear();
 		st.show();
 		System.out.println(st.findElem(9));
+		System.out.println(st.findElem(4));
+		System.out.println(st.findElem(1));
+		System.out.println(st.findElem(9));
+		System.out.println(st.findElem(5));
+		System.out.println(st.findElem(8));
+		System.out.println(st.findElem(3));
+		
 	}
 
 }
