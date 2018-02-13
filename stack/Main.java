@@ -8,6 +8,8 @@ public class Main {
 		st.push(6);
 		st.push(9);
 		st.push(4);
+		st.push(14);
+		st.push(43);
 		st.push(1);
 		st.show();
 		int x = 3;
